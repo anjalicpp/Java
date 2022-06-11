@@ -1,3 +1,7 @@
+Practical:20
+Write a multithreaded program where three threads are there and printing the numbers from 1 to 10 concurrently.
+
+
 class B extends Thread
 {
     public void run()
