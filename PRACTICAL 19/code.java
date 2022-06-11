@@ -1,3 +1,6 @@
+Practical-19
+Write a program that takes your name from keyboard and writes on console.
+
 import java.io.*;
 class A {
     
